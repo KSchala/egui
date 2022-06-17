@@ -273,7 +273,7 @@ impl Resize {
 
         // ------------------------------
 
-        let size = if self.with_stroke || self.resizable {
+        let size = if true {
             // We show how large we are,
             // so we must follow the contents:
 
